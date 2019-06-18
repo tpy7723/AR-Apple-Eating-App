@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:C.\Users\pks01\Desktop\Android\vuforia-sdk-android-8-1-10\build\java\Vuforia\Vuforia.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../build/java/Vuforia/Vuforia.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../build/java/Vuforia/Vuforia.jar!/" />
+    </SOURCES>
+  </library>
+</component>

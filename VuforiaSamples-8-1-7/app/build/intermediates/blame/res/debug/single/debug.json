@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_button_background.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\button_background.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scanline.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\scanline.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lander_status_recognized.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\lander_status_recognized.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bike_status_snapped.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\bike_status_snapped.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vuforia_splash.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\vuforia_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bike_status_snapped.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\bike_status_snapped.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bike_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\bike_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bike_status_recognized.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\bike_status_recognized.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bike_status_snapped.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\bike_status_snapped.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_reset.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\btn_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_drone_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\btn_drone_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bike_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\bike_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_searching_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\searching_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_mid_air.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\icon_mid_air.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_content_placement.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\icon_content_placement.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_chair_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\btn_chair_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_ground_plane.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\icon_ground_plane.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lander_status_recognized.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\lander_status_recognized.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_astro_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\btn_astro_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\raw_elefante.obj.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\raw\\elefante.obj"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lander_status_passive.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\lander_status_passive.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bike_status_passive.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\bike_status_passive.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_astro_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\btn_astro_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\layout\\sample_app_menu_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lander_status_recognized.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\lander_status_recognized.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_chair_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\btn_chair_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_drone_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\btn_drone_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_checkmark.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\raw_cat.obj.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\raw\\cat.obj"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_astro.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\btn_astro.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_title_bar.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\layout\\sample_app_title_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_chair_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\btn_chair_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\button_background.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_mid_air.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\icon_mid_air.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_message_view.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\layout\\sample_app_message_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lander_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\lander_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_reset.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\selector_btn_reset.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bike_status_snapped.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\bike_status_snapped.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_ground_plane.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\icon_ground_plane.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lander_status_passive.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\lander_status_passive.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_reset_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\btn_reset_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\raw_gress.obj.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\raw\\gress.obj"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bike_status_passive.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\bike_status_passive.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\raw_tree.obj.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\raw\\tree.obj"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_chair.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\btn_chair.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkmark.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_reset.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\btn_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_reset.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\btn_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lander_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\lander_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_background.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\button_background.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bike_status_recognized.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\bike_status_recognized.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_overlay.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\layout\\camera_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_chair_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\btn_chair_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_drone_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\btn_drone_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\layout_activities_list.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\layout\\activities_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lander_status_snapped.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\lander_status_snapped.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bike_status_passive.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\bike_status_passive.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_content_placement.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\icon_content_placement.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_layer.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_screen.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\layout\\about_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_camera_pressed.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\icon_camera_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lander_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\lander_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_searching_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\searching_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_astro_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\btn_astro_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_searching_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\searching_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_drone.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\btn_drone.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_drone_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\btn_drone_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lander_status_snapped.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\lander_status_snapped.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_astro.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\btn_astro.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_content_placement.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\icon_content_placement.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_reset_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\btn_reset_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_drone.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\selector_btn_drone.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_down.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bike_status_recognized.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\bike_status_recognized.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lander_status_snapped.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\lander_status_snapped.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_searching_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\searching_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_chair.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\btn_chair.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_button_background.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\camera_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_reset_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\btn_reset_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\layout_activities_list_text_view.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\layout\\activities_list_text_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_drone.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\btn_drone.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lander_status_passive.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\lander_status_passive.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sample_app_toast_background.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\sample_app_toast_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lander_status_recognized.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\lander_status_recognized.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_astro.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\btn_astro.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lander_status_recognized.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\lander_status_recognized.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bike_status_recognized.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\bike_status_recognized.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_ground_plane.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\icon_ground_plane.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_reset_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\btn_reset_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group_divider.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_content_placement.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\icon_content_placement.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_astro.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\selector_btn_astro.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_background.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\button_background.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lander_status_passive.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\lander_status_passive.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group_radio_button.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\layout\\sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_product.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\selector_btn_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\raw_dog.obj.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\raw\\dog.obj"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lander_status_passive.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\lander_status_passive.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_camera_normal.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\icon_camera_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_mid_air.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\icon_mid_air.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lander_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\lander_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_drone.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\btn_drone.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\pks01\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.6.0.aar\\3ee2ac9efb24268b9fe4f3e4bea42c2f\\res\\layout\\__arcore_education.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bike_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\bike_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_chair.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\btn_chair.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lander_status_snapped.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\lander_status_snapped.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_background.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\button_background.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_chair.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\btn_chair.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_drone.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\btn_drone.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_reset.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\btn_reset.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bike_status_recognized.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\bike_status_recognized.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\raw_keep.xml.flat",
+        "source": "C:\\Users\\pks01\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.6.0.aar\\3ee2ac9efb24268b9fe4f3e4bea42c2f\\res\\raw\\keep.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_searching_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\searching_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lander_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\lander_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bike_status_passive.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\bike_status_passive.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_astro_selected.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\btn_astro_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkmark.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_info.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\card_info.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bike_status_passive.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\bike_status_passive.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bike_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\bike_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_astro.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\btn_astro.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\raw_dog2.obj.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\raw\\dog2.obj"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bike_reticle.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\bike_reticle.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_checkmark.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bike_status_snapped.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable\\bike_status_snapped.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lander_status_snapped.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xxhdpi\\lander_status_snapped.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_checkmark.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-mdpi\\checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\raw_button.wav.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\raw\\button.wav"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_up.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_ground_plane.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-xhdpi\\icon_ground_plane.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_mid_air.png.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\drawable-hdpi\\icon_mid_air.png"
+    },
+    {
+        "merged": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
+        "source": "C:\\Users\\pks01\\Desktop\\Android\\vuforia-sdk-android-8-1-10\\samples\\VuforiaSamples-8-1-7\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    }
+]
