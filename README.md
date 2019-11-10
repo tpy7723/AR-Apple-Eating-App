@@ -11,3 +11,6 @@
 > Mobile-AR/VuforiaSamples-8-1-7/app/src/main/java/com/vuforia/engine/CoreSamples/app/ImageTargets/ImageTargets.java  
 > Mobile-AR/VuforiaSamples-8-1-7/app/src/main/java/com/vuforia/engine/CoreSamples/app/ImageTargets/ImageTargetRenderer.java  
 > Mobile-AR/VuforiaSamples-8-1-7/app/src/main/res/layout/camera_overlay.xml  
+
+![image](./모소1.png)  
+![image](./모소2.png)
