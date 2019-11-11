@@ -1,5 +1,5 @@
 # 사과 먹기 게임 AR  ( 2019년도 1학기 )  
-
+* [동영상 링크](https://www.youtube.com/watch?v=4oR3n0tA-HI&t=3s "유튜브")  
 *  최종 프로젝트로 Android OpenCV, OpenGL, Vuforia AR 개발환경을 이용한 ‘사과 먹기 게임 AR 앱’을 개발  
 *  안드로이드 앱을 제작해보면서 JAVA 언어 원리와 사용법을 이해  
 *  Checker board, obj, Texture를 이용한 object 증강
@@ -11,6 +11,7 @@
 > Mobile-AR/VuforiaSamples-8-1-7/app/src/main/java/com/vuforia/engine/CoreSamples/app/ImageTargets/ImageTargets.java  
 > Mobile-AR/VuforiaSamples-8-1-7/app/src/main/java/com/vuforia/engine/CoreSamples/app/ImageTargets/ImageTargetRenderer.java  
 > Mobile-AR/VuforiaSamples-8-1-7/app/src/main/res/layout/camera_overlay.xml  
+  
 
 ![image](./모소1.png)  
 ![image](./모소2.png)
